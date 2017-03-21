@@ -1,0 +1,21 @@
+#feelingsbuttons {
+height: 70px;
+
+	}
+
+.form-group {
+padding-bottom: 30px;
+}
+
+body {
+	background: url(../images/water.jpeg);
+
+}
+
+.jumbotron {
+	background-color: yellow;
+}
+
+.form-group {
+	color: white;
+}
